@@ -1,0 +1,11 @@
+/images
+/save
+data_split_into_classes.csv
+image_embeddings.npy
+Metrics.md
+more_titles.csv
+solution.csv
+task.ipynb
+task1.py
+test_data.csv
+titles_for_clustering_original.csv
